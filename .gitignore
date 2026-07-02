@@ -39,4 +39,4 @@ Thumbs.db
 # IDE generated files #
 ######################
 .vscode
-.target
+target/
